@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/futformation.vercel.app",
     "slug": "futformation",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 2301,
-    "timeDay": 3426,
-    "timeWeek": 4604,
-    "timeMonth": 3776,
-    "timeYear": 2301,
-    "dailyMinutesDown": {
-      "2021-12-04": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2329,
+    "timeDay": 3437,
+    "timeWeek": 4615,
+    "timeMonth": 3921,
+    "timeYear": 2329,
+    "dailyMinutesDown": {}
   }
 ]
