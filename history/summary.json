@@ -4,7 +4,7 @@
     "url": "https://futformation.vercel.app",
     "icon": "https://favicons.githubusercontent.com/futformation.vercel.app",
     "slug": "futformation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 5434,
     "timeYear": 4036,
     "dailyMinutesDown": {
+      "2022-07-13": 0,
       "2022-02-23": 68
     }
   }
