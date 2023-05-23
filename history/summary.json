@@ -4,17 +4,19 @@
     "url": "https://futformation.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/futformation.vercel.app.ico",
     "slug": "futformation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2055,
+    "time": 2049,
     "timeDay": 89,
     "timeWeek": 109,
     "timeMonth": 119,
     "timeYear": 1150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-23": 0
+    }
   }
 ]
