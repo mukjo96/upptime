@@ -6,17 +6,16 @@
     "slug": "futformation",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 153,
-    "timeWeek": 121,
-    "timeMonth": 162,
+    "timeDay": 133,
+    "timeWeek": 116,
+    "timeMonth": 157,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2025-08-13": 7,
       "2025-03-11": 17
     }
   }
